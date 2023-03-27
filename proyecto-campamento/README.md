@@ -6,7 +6,7 @@ REALIZADO CON: php,HTML,CSS,SQL
 
 ##
 NOTA IMPORTANTE
-##
+
 para el correcto funcionamiento del proyecto es necesario cargar el xml y ddl de la base de datos(estos dos los encontraras en la carpeta BD del proyecto).
 
 una vez cargada la base de datos podras ver el proyecto en localhost.
@@ -16,10 +16,12 @@ Correo: cardenaszalapajesus@gmail.com Contraseña: chuy123
 Correo: giovatt124@gmail.com Contraseña: kemo123
 Correo: fernanclok@gmail.com Contraseña: fer123
 
+##
 ACERCA DEL PROYECTO
 
 el proyecto fue realizado por 3 personas como proyecto final del tercer cuatrimestre.
 
+##
 TAREAS REALIZADAS
 
 Se creo una base de datos donde se alamacena toda la informacion relacionada con el proyecto.
