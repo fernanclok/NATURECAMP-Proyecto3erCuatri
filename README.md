@@ -1,4 +1,4 @@
-# NATURECAMP-Proyecto3erCuatri
+# NATURECAMP-Proyecto3erCuatrimestre
 proyecto final realizado en el tercer cuatrimestre en equipo de tres 
 
 Proyecto desarrollado por: Fernando Medina Palacios. Universidad: Universidad Tecnologica de Tijuana. grado y grupo: 4C TDISM
